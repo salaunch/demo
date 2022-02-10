@@ -1,4 +1,5 @@
-const ENDPOINT = 'http://localhost:63342/demo/upload.html';
+const ENDPOINT = 'https://main.d3t8qrv02ygtsv.amplifyapp.com/upload.html';
+// const ENDPOINT = 'http://localhost:63342/demo/upload.html';
 
 const uploadForm = document.getElementById('upload-form');
 
