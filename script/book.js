@@ -1,5 +1,4 @@
-// const ENDPOINT = 'data/book-title-1.json';
-const ENDPOINT = 'data/';
+const ENDPOINT = './data/';
 
 const generateURL = () => {
     const params = new URLSearchParams(window.location.search);
