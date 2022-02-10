@@ -2,132 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47673d20-c422-4a3f-867c-abd0ada9d5cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/Gruntfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/ads.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/nav-components.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/nav-css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/nav-customize.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/nav-getting-started.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/nav-javascript.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/nav-main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/old-bs-docs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/social-buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_layouts/customize.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_layouts/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_layouts/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/css/docs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/css/pygments-manni.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/ico/apple-touch-icon-114-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/ico/apple-touch-icon-144-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/ico/apple-touch-icon-57-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/ico/apple-touch-icon-72-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/ico/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/js/application.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/js/holder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/js/html5shiv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/js/respond.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/browserstack.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/components.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/customize.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/demo1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/dist/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/demo1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/getting-started.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/javascript.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/.jshintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/affix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/phantom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/affix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/phantom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/transition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/vendor/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/vendor/qunit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/vendor/qunit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/transition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/accordion.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/alerts.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/badges.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/bootstrap.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/breadcrumbs.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/button-groups.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/buttons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/carousel.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/close.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/code.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/component-animations.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/dropdowns.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/forms.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/grid.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/input-groups.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/jumbotron.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/labels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/list-group.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/media.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/modals.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/navbar.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/navs.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/normalize.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/pager.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/pagination.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/panels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/popovers.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/print.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/progress-bars.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/responsive-utilities.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/scaffolding.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/tables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/thumbnails.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/tooltip.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/type.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/utilities.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/wells.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/upload.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -144,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/upload.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="90">
+              <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -153,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="177">
+              <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -176,6 +52,12 @@
       <find>active</find>
       <find>Uploaded</find>
       <find>index.html</find>
+      <find>work-in</find>
+      <find>All</find>
+      <find>List group</find>
+      <find>list</find>
+      <find>List</find>
+      <find>Li</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -226,6 +108,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="editor.config.ad.shown" value="true" />
@@ -260,12 +143,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644512081471</updated>
-      <workItem from="1644512084258" duration="1896000" />
+      <workItem from="1644512084258" duration="2769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1896000" />
+    <option name="totallyTimeSpent" value="2769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="952" extended-state="0" />
@@ -330,15 +213,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/upload.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="90">
+          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="177">
+          <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
         </state>
       </provider>
     </entry>
