@@ -1,4 +1,5 @@
 const ENDPOINT = 'https://main.d3t8qrv02ygtsv.amplifyapp.com/data';
+// const ENDPOINT = 'data';
 
 const generateURL = () => {
     const params = new URLSearchParams(window.location.search);

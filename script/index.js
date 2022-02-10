@@ -26,3 +26,8 @@ xhr.onreadystatechange = function() {
     }
 };
 xhr.send();
+
+const params = new URLSearchParams(window.location.search);
+if (params.get('file-uploaded')) {
+    document.getElementById('success-message').style = 'display: block';
+}
