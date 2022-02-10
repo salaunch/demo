@@ -1,4 +1,5 @@
-const renderBooks = (books) => {
+const renderBooks = (payload) => {
+    const books = payload['Items'];
     for (let i = 0; i < books.length; i += 1) {
         const book = books[i];
         const div = document.createElement('div');
