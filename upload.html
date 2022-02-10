@@ -25,7 +25,7 @@
 <h1></h1>
   <div class="row">
    <div class="col-lg-10">
-<form class="form-horizontal" role="form">
+<form id="upload-form" class="form-horizontal" role="form">
     <div class="form-group">
         <label for="title" class="col-lg-2 control-label">Title</label>
         <div class="col-lg-10">
@@ -41,7 +41,7 @@
    <div class="form-group">
     <label for="book-image" class="col-lg-2 control-label">Attachment</label>
     <div class="col-lg-3">
-        <input type="file" class="form-control" id="book-image" accept="*/*" />
+        <input type="file" class="form-control" name="uploadFile" id="book-image" accept="*/*" />
     </div>
   </div>
     <div class="form-group">
@@ -73,5 +73,6 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script>
+    <script charset="utf-8" src="script/upload.js"></script>
   </body>
 </html>
