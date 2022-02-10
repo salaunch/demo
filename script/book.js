@@ -1,4 +1,4 @@
-const ENDPOINT = 'https://main.d3t8qrv02ygtsv.amplifyapp.com/data';
+const ENDPOINT = 'https://w8bzctv8dc.execute-api.us-east-1.amazonaws.com/books';
 // const ENDPOINT = 'data';
 
 const generateURL = () => {
@@ -6,7 +6,7 @@ const generateURL = () => {
     const id = params.get('id');
     const language = params.get('language');
     console.log(ENDPOINT + '/' + id + '/' + language);
-    return ENDPOINT + '/' + id + '-' + language + '.json';
+    return ENDPOINT + '/' + id + '/' + language;
 };
 
 const xhr = new XMLHttpRequest();
