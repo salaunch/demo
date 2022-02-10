@@ -8,14 +8,15 @@ const renderBooks = (books) => {
             + '<a class="english" href="#">English</a> | <a class="spanish" href="#">Espa&ntilde;ol</a></div>';
         div.getElementsByClassName('book-title')[0].innerHTML = book['title'];
         div.getElementsByClassName('book-author')[0].innerHTML = book['author'];
-        div.getElementsByClassName('english')[0].setAttribute('href', 'book.html?id=' + book['id'] + '&language=english');
-        div.getElementsByClassName('spanish')[0].setAttribute('href', 'book.html?id=' + book['id'] + '&language=spanish');
+        div.getElementsByClassName('english')[0].setAttribute('href', 'book.html?id=' + book['bookId'] + '&language=english');
+        div.getElementsByClassName('spanish')[0].setAttribute('href', 'book.html?id=' + book['bookId'] + '&language=spanish');
 
         document.getElementById('translated-books').appendChild(div.firstChild);
     }
 };
 
-const ENDPOINT = 'data/translated-books.json';
+const ENDPOINT = 'https://w8bzctv8dc.execute-api.us-east-1.amazonaws.com/books';
+// const ENDPOINT = 'data/translated-books.json';
 
 const xhr = new XMLHttpRequest();
 xhr.open('GET', ENDPOINT);

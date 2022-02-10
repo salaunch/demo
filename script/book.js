@@ -5,7 +5,7 @@ const generateURL = () => {
     const params = new URLSearchParams(window.location.search);
     const id = params.get('id');
     const language = params.get('language');
-    console.log(ENDPOINT + '?id=' + id + '&language=' + language);
+    console.log(ENDPOINT + '/' + id + '/' + language);
     return ENDPOINT + '/' + id + '-' + language + '.json';
 };
 
