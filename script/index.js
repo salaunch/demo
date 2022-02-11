@@ -9,8 +9,8 @@ const renderBooks = (payload) => {
             + '<a class="english" href="#">English</a> | <a class="spanish" href="#">Espa&ntilde;ol</a></div>';
         div.getElementsByClassName('book-title')[0].innerHTML = book['title'];
         div.getElementsByClassName('book-author')[0].innerHTML = book['author'];
-        div.getElementsByClassName('english')[0].setAttribute('href', 'book.html?id=' + book['bookId'] + '&language=english');
-        div.getElementsByClassName('spanish')[0].setAttribute('href', 'book.html?id=' + book['bookId'] + '&language=spanish');
+        div.getElementsByClassName('english')[0].setAttribute('href', 'book.html?id=' + book['bookId'] + '&language=en');
+        div.getElementsByClassName('spanish')[0].setAttribute('href', 'book.html?id=' + book['bookId'] + '&language=es');
 
         document.getElementById('translated-books').appendChild(div.firstChild);
     }
