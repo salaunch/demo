@@ -15,8 +15,8 @@ xhr.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
         var book = JSON.parse(this.responseText);
 
-        document.getElementById('book-title').innerText = book['title'];
-        document.getElementById('book-author').innerText = book['author'];
+        document.getElementById('book-title').innerText = book['title']['S'];
+        document.getElementById('book-author').innerText = book['author']['S'];
         document.getElementById('book-text').innerText = book['text'];
     }
 };
